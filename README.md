@@ -41,8 +41,8 @@ Esse projeto é open source sob a licença MIT. Isso significa que você pode us
 
 **Links úteis:**
 
-* **Repositório no GitHub:** [[Link para o seu repositório](https://github.com/phsfonseca?tab=repositories)]
-* **League of Legends:** [[Link para o site oficial do League of Legends](https://www.leagueoflegends.com/pt-br/)]
+* **Repositório no GitHub:** [[Pedro Fonseca - Repositório](https://github.com/phsfonseca?tab=repositories)]
+* **League of Legends:** [[Site oficial do League of Legends](https://www.leagueoflegends.com/pt-br/)]
 
 **E aí, gostou?**
 
